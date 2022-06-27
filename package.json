@@ -1,0 +1,11 @@
+{
+  "name": "micro-frontends",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Wurielle/micro-frontends.git",
+  "author": "Wurielle",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^5.1.6"
+  }
+}
