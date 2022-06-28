@@ -5,6 +5,9 @@
   "repository": "https://github.com/Wurielle/micro-frontends.git",
   "author": "Wurielle",
   "license": "MIT",
+  "scripts": {
+    "start:live": "lerna run start:live --stream"
+  },
   "dependencies": {
     "lerna": "^5.1.6"
   }
